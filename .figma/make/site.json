@@ -1,0 +1,10 @@
+{
+  "description": "Explore and build wooden heritage models enhanced with NFC-triggered audio and AR experiences to discover Vietnam's cultural stories interactively.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
