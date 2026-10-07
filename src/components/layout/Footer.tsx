@@ -21,16 +21,10 @@ export default function Footer() {
             <a href="/#discover">Khám phá di sản</a>
           </div>
           <div>
-            <strong>Hỗ trợ</strong>
-            <a href="/#top">Liên hệ</a>
-            <a href="/#top">Giao hàng</a>
-            <a href="/#top">Chính sách</a>
-          </div>
-          <div>
             <strong>Kết nối</strong>
-            <a href="/#top">Facebook</a>
-            <a href="/#top">Instagram</a>
-            <a href="/#top">TikTok</a>
+            <a href="https://www.facebook.com/share/1JRBKEJnSZ/?mibextid=wwXIfr" target="_blank" rel="noopener noreferrer">Facebook</a>
+            <a href="https://www.tiktok.com/@kientichviet.official?_r=1&_t=ZS-9AJ4MAhHC69" target="_blank" rel="noopener noreferrer">TikTok</a>
+            <a href="mailto:kientichviet.official@gmail.com">Email</a>
           </div>
         </div>
         <div className="newsletter">

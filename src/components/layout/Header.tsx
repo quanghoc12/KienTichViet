@@ -14,12 +14,15 @@ export default function Header() {
         className={`main-nav ${menuOpen ? "is-open" : ""}`}
         aria-label="Điều hướng chính"
       >
+        <Link to="/" onClick={() => setMenuOpen(false)}>
+          Trang chủ
+        </Link>
         <Link to="/our-story" onClick={() => setMenuOpen(false)}>
           Câu chuyện
         </Link>
-        <a href="/#products" onClick={() => setMenuOpen(false)}>
+        <Link to="/products" onClick={() => setMenuOpen(false)}>
           Sản phẩm
-        </a>
+        </Link>
         <a href="/#discover" onClick={() => setMenuOpen(false)}>
           Khám phá di sản
         </a>
